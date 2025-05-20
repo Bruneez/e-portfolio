@@ -102,7 +102,7 @@ I now have a professional-looking CV that I feel confident submitting for intern
 ## 📤 CV Submission
 
 ### 📎 Evidence  
-![CV Submission Evidence](link-to-your-cv-submission-image.png)
+[📄 View/download my CV (PDF)](./My_CV.pdf)
 
 ### 📝 Reflection (STAR)
 
