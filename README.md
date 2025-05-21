@@ -80,8 +80,9 @@ To go deeper, I:
 - Reflected on how I thrive in organized, logic-driven environments where I can work independently but also support broader team objectives.
 
 ### ✅ R – Result  
-The assessment gave me clarity: I’m naturally drawn to roles that require precision, problem-solving, and structure — like **data analysis**, **backend development**, or even **machine learning engineering**.  
+The assessment gave me clarity: I’m naturally drawn to roles that require precision, problem-solving, and structure — like data analysis, backend development, or even machine learning engineering.  
 It also helped me accept that it’s okay to prefer solo work when I’m focused, and that I bring real value through consistency, analytical thinking, and systems-oriented work. This reflection is now shaping how I tailor my CV, choose electives, and even who I look to for mentorship. It reminded me that success comes not just from skills, but from aligning with your core personality.
+
 ---
 
 ## 📄 Create a CV
@@ -91,20 +92,32 @@ It also helped me accept that it’s okay to prefer solo work when I’m focused
 
 
 ### 📝 Reflection (STAR)
-
 **S – Situation:**  
-Creating a standout CV as a student with limited work experience was a challenge.
+As part of my career preparation, I completed a **CV creation module** to learn how to effectively showcase my skills, experience, and qualifications to potential employers. This task involved both theoretical learning (via quizzes) and practical application.
 
 **T – Task:**  
-I had to craft a professional CV that highlights my academic, technical, and personal strengths.
+The objectives were to:
+- Understand the core purpose and structure of a professional CV.
+- Learn how to organize sections (e.g., work experience, education, skills) for maximum impact.
+- Identify common mistakes and best practices in CV writing.
 
 **A – Action:**  
-I researched modern CV formats, took feedback from lecturers, and revised my CV multiple times.
+I approached this task by:
+1. **Engaging with the quiz questions** to test my understanding of CV fundamentals (e.g., reverse-chronological order for work experience).
+2. **Reviewing my incorrect response** about the primary purpose of a CV (initially selecting "t" instead of the correct answer) to clarify misconceptions.
+3. **Drafting a sample CV** based on the guidelines, ensuring:
+   - Clear section headers (Skills, Education, Work Experience).
+   - Concise bullet points using action verbs (e.g., "Developed," "Managed").
+   - Tailored content for my target field (e.g., IT, Design, etc.).
 
 **R – Result:**  
-I now have a professional-looking CV that I feel confident submitting for internships and job applications.
-
+This task helped me:
+- **Master CV structure**: I now know how to prioritize information (e.g., placing recent work experience first).
+- **Highlight transferable skills**: I can better articulate my strengths (e.g., "Problem-solving" or "Project Management").
+- **Avoid pitfalls**: Learned to exclude irrelevant details and keep the CV to 1–2 pages.  
+Moving forward, I’ll **update my CV quarterly** and customize it for specific job applications.
 ---
+
 ## 📤 CV Submission
 
 ### 📎 Evidence  
@@ -112,16 +125,25 @@ I now have a professional-looking CV that I feel confident submitting for intern
 
 ### 📝 Reflection (STAR)
 
+## CV Reflection – STAR Method
+
 **S – Situation:**  
-I was preparing to apply for internships and needed to submit my CV.
+As part of my professional development, I created and updated my CV to reflect who I am as a final-year Application Development student at Cape Peninsula University of Technology. With growing interests in machine learning and database systems, it was important for me to build a CV that accurately showcases my technical skills, academic journey, and personal growth.
 
 **T – Task:**  
-I had to ensure that my CV was correctly formatted, personalized, and ready for real-world applications.
+The task was to:  
+- Present my education, skills, and experiences in a clear and professional format.  
+- Tailor the content to highlight relevant strengths for roles in the tech industry.  
+- Ensure my CV demonstrates both my technical and transferable skills, and reflects my current career interests.
 
 **A – Action:**  
-I reviewed the job requirements, tailored my CV to fit the role, and submitted it confidently.
+I began by identifying key sections such as Education, Skills, Projects, and Achievements.  
+1. I included my core technical skills like Java, Kotlin, SQL, and database management.  
+2. I showcased my growing interest in **machine learning** by mentioning self-initiated learning and exploration in that area.  
+3. I added real project experience, such as the client-server app and weather app, to demonstrate practical application of my skills.  
+4. I also included soft skills like communication, leadership, and problem-solving, which I developed through volunteering and team-based academic projects.
 
 **R – Result:**  
-The experience helped me understand the importance of presenting my skills clearly and professionally in job applications.
+Updating my CV helped me recognize how much I’ve developed since starting my diploma. I now have a clearer picture of the kind of roles I want to pursue—such as software developer, backend developer, or data-focused roles like machine learning assistant or database administrator. The final CV presents a well-rounded image of me: technically skilled, eager to learn, and ready to contribute meaningfully in the tech industry. It also gave me more confidence in applying for internships, jobs, or showcasing myself online via LinkedIn or my portfolio.
 
 ---
