@@ -20,16 +20,16 @@ I’m Bruneez Apollis, a curious and driven final-year ICT student specializing 
 ### 📝 Reflection (STAR)
 
 **S – Situation:**  
-As a final-year ICT student, I often wondered how to bridge the gap between my studies and the real world of work.
+As a student preparing to transition into the professional world, I recognised the importance of understanding the key concepts behind career planning, skills development, and goal setting. To strengthen my employability and self-awareness, I completed a Career Development module.
 
 **T – Task:**  
-I needed to explore different career paths and gain clarity on which direction would best fit my passions and skills.
+The task was to complete an online learning activity focused on career counselling, development goals, and identifying hard and soft skills. The objective was to better prepare myself for making informed career decisions and planning my professional growth.
 
 **A – Action:**  
-I attended career counselling sessions, explored online career platforms, and discussed options with my mentor.
+I worked through a structured set of questions covering the importance of setting goals, the outcomes of effective career counselling, and the distinction between hard and soft skills. Although I initially struggled with some of the answers, I reviewed each question carefully and reflected on the reasoning behind them. Despite submitting late, I completed 100% of the module and used the experience as an opportunity to better understand career development strategies.
 
 **R – Result:**  
-I came out more confident and focused on software development and UI/UX as areas where I can grow and make an impact.
+Completing the task gave me a clearer understanding of the value of career planning and the role it plays in long-term success. I learned the importance of setting measurable goals, identifying my strengths, and understanding both technical and interpersonal skills. This has motivated me to actively reflect on my future career path and to continue building a strong foundation for employment after graduation.
 
 ---
 
@@ -41,17 +41,19 @@ I came out more confident and focused on software development and UI/UX as areas
 
 ### 📝 Reflection (STAR)
 
+## Skills and Interests – Reflection (STAR Method)
+
 **S – Situation:**  
-As a final-year ICT student, I’ve always been curious about how technology can be used to solve real-world problems.
+As a final-year Application Development student at Cape Peninsula University of Technology, I’ve gained a range of both technical and soft skills. Over time, I’ve developed a strong interest in machine learning and working with databases, particularly using SQL.
 
 **T – Task:**  
-I needed to identify my core skills and interests to better align my career path and portfolio with opportunities in app development.
+The task was to reflect on my skills and interests to understand how they align with my personal and professional goals. This involved identifying the areas I excel in, what I enjoy doing most, and how these can shape my future career.
 
 **A – Action:**  
-I reflected on my academic and personal projects, such as developing a weather app and working with Java and Kotlin. I also took interest inventories and skills quizzes to better understand my strengths.
+I looked at my academic projects, such as building applications using Java and Kotlin, and managing data through SQL. I also explored machine learning out of personal interest, taking time to understand how data is used to create intelligent systems. I identified transferable skills like problem-solving, attention to detail, communication, and teamwork, which I’ve developed through both individual and group tasks.
 
 **R – Result:**  
-I discovered a strong interest in software development, creative problem-solving, and UI/UX design. This helped me tailor my learning and set clearer career goals.
+This reflection helped me realize that I am most passionate about solving problems using code, understanding how systems work, and working with data. My interest in machine learning and databases continues to grow, and I am now focused on developing those skills further. I feel more confident in the direction I want to take and more intentional about the projects I pursue.
 
 ---
 ## 🧬 Personality Assessment
@@ -63,19 +65,23 @@ I discovered a strong interest in software development, creative problem-solving
 
 
 ### 📝 Reflection (STAR)
+### ⭐ S – Situation  
+As a final-year ICT student planning my next steps, I took part in a **Personality Assessment** module based on the Holland Code (RIASEC) model. I’ve always known I enjoy tech, but this was my first time intentionally connecting my personality to real career options in the field. I wanted to understand not just what I’m good at, but *why certain tasks energize me more than others*.
 
-**S – Situation:**  
-I was curious to understand more about myself and how my personality traits influence my working style.
+### 🎯 T – Task  
+The task involved exploring six personality types — Realistic, Investigative, Artistic, Social, Enterprising, and Conventional — and identifying which ones best describe me. The goal was to reflect on how these traits influence my career preferences, learning style, and how I function in a team or work setting.
 
-**T – Task:**  
-I needed to take a personality test and reflect on how my traits align with potential ICT career paths.
+### ⚙️ A – Action  
+I took time to complete the assessment honestly, answering questions about what I enjoy, how I solve problems, and the kinds of work environments I prefer. My results highlighted both **Investigative** and **Conventional** traits.  
+To go deeper, I:
 
-**A – Action:**  
-I completed a detailed personality assessment and reviewed the results carefully.
+- Revisited my academic and personal projects (e.g., building a weather app and writing SQL queries) to see how these traits showed up in practice.  
+- Compared personality descriptions with my experiences — realizing that my love for structured data, step-by-step problem-solving, and deep analysis clearly align with these two types.  
+- Reflected on how I thrive in organized, logic-driven environments where I can work independently but also support broader team objectives.
 
-**R – Result:**  
-I discovered that my personality fits well with analytical and creative roles, which supports my interest in development and UI/UX.
-
+### ✅ R – Result  
+The assessment gave me clarity: I’m naturally drawn to roles that require precision, problem-solving, and structure — like **data analysis**, **backend development**, or even **machine learning engineering**.  
+It also helped me accept that it’s okay to prefer solo work when I’m focused, and that I bring real value through consistency, analytical thinking, and systems-oriented work. This reflection is now shaping how I tailor my CV, choose electives, and even who I look to for mentorship. It reminded me that success comes not just from skills, but from aligning with your core personality.
 ---
 
 ## 📄 Create a CV
