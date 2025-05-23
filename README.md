@@ -38,7 +38,7 @@ Completing the task gave me a clearer understanding of the value of career plann
 ![Career development](https://github.com/user-attachments/assets/f0f1019c-af13-47c4-b36b-f0f94a6a1841)
 
 
-### 📝 Reflection
+### 💡Reflection
 
 
 **S – Situation:**  
@@ -62,7 +62,7 @@ This reflection helped me realize that I am most passionate about solving proble
 ![Personality Assesment 2](https://github.com/user-attachments/assets/264c72f9-8e54-4b0e-88fa-2b647bb0c9ab)
 
 
-### 📝 Reflection 
+### 🔍 Reflection 
   
 As a final-year ICT student planning my next steps, I took part in a **Personality Assessment** module based on the Holland Code (RIASEC) model. I’ve always known I enjoy tech, but this was my first time intentionally connecting my personality to real career options in the field. I wanted to understand not just what I’m good at, but *why certain tasks energize me more than others. The task involved exploring six personality types — Realistic, Investigative, Artistic, Social, Enterprising, and Conventional — and identifying which ones best describe me. The goal was to reflect on how these traits influence my career preferences, learning style, and how I function in a team or work setting.
 
@@ -84,7 +84,7 @@ It also helped me accept that it’s okay to prefer solo work when I’m focused
 ![Create a CV](https://github.com/user-attachments/assets/fef33834-c768-4b98-9405-081f2e3692c4)
 
 
-### 📝 Reflection 
+### ✨ Reflection 
  
 As part of my career preparation, I completed a **CV creation module** to learn how to effectively showcase my skills, experience, and qualifications to potential employers. This task involved both theoretical learning (via quizzes) and practical application.
 
@@ -137,7 +137,7 @@ Updating my CV helped me recognize how much I’ve developed since starting my d
 
 ---
 
-## 🌟 Final Reflection
+## 🗺️  Closing Thoughts
 
 Creating this e-portfolio has been more than just an academic task—it’s been a personal journey of discovery, growth, and direction. From uncovering my personality strengths to identifying career paths that truly excite me, each activity has helped me understand myself better as an aspiring ICT professional. I now feel more confident, focused, and ready to step into the working world with purpose. This portfolio reflects not only what I’ve done, but who I’m becoming—and I’m excited for the path ahead.
 
