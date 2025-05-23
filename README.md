@@ -115,7 +115,7 @@ Moving forward, I’ll **update my CV quarterly** and customize it for specific 
 ### 📎 Evidence  
 [📄 View/download my CV (PDF)](./My_CV.pdf)
 
-### 📝 Reflection (STAR)
+### 🚀 Reflection
 
 
   
