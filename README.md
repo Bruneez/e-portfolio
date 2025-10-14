@@ -11,6 +11,20 @@ Over the past few weeks, I’ve explored my **skills**, **interests**, and **per
 I’m Bruneez Apollis, a curious and driven final-year ICT student specializing in Application Development at Cape Peninsula University of Technology. I’m passionate about using technology to solve real-world problems, and I enjoy building creative solutions through code. Whether I’m developing an app or exploring new tech trends, I’m always looking for ways to grow, create, and make a meaningful impact.
 
 ---
+## 🌟 Table of Contents
+1. [Career Counselling](#-career-counselling)
+2. [Pesonality Assessment](#-personality-assessment)
+3. [Create a CV](#-create-a-cv)
+4. [CV Submission](#-cv-submission)
+5. [Business Communication](#-business-communication)
+6. [Interview Skills](#-interview-skills)
+7. [Mock Interview](#-mock-interview)
+8. [Professional Networking](#-professional-networking)
+9. [Workplace Etiquette](#-workplace-etiquette)
+10. [Final Reflection](#-final-reflection)
+
+---
+
 ## 📘 Career Counselling
 
 ### 📎 Evidence
