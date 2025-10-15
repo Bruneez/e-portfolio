@@ -144,25 +144,25 @@ Updating my CV helped me recognize how much I’ve developed since starting my d
 <br><br>
 ![Business Communication evidence]https://github.com/Bruneez/e-portfolio/blob/main/Business%20Communication%20evidence/businessa_comminication_email.png
 
-*Special email for job-shadowing.*
-
----
+*Professional email for job-shadowing.*
 
 ### 📝 Reflection – STAR Method
 
 **S – Situation:**  
-As part of my Work Readiness module, I had to create a professional cover letter to accompany my CV when applying for internship opportunities.  
+As part of my Work Readiness module, I was required to approach potential companies to enquire about possible internship opportunities. One of the organizations I contacted was **Sanlam**, where I expressed my interest in gaining practical ICT experience. To make a strong impression, I needed to create a **professional cover letter** to accompany my CV. This activity helped me apply the principles of business communication in a real-world context while practicing how to communicate effectively and professionally with employers.
 
 **T – Task:**  
-My goal was to write a formal, well-structured letter that highlights my skills and career interests effectively.  
+In preparing my email and cover letter, my goal was to demonstrate professionalism through clear, confident, and well-structured writing. I needed to ensure that my message followed the **7 Cs of effective communication** — being **Clear, Concise, Concrete, Correct, Coherent, Complete, and Courteous**. I wanted my writing to not only highlight my technical skills and career goals but also reflect my enthusiasm, attention to detail, and respect for the employer’s time.
 
 **A – Action:**  
-I drafted and refined my cover letter by focusing on tone, structure, and clarity. I made sure it was tailored to the ICT industry and reflected my personality and values.  
+I began by researching Sanlam’s company values and the qualities they look for in interns. I then drafted my cover letter carefully, ensuring that the tone remained formal and respectful. I reviewed it multiple times to improve clarity and flow, removed unnecessary words to stay concise, and double-checked grammar and structure to keep it correct. I also ensured that the letter was complete by including all relevant information — my academic background, technical skills (such as Java, SQL, and app development), and my motivation for applying. Lastly, I maintained a courteous tone, showing appreciation for the reader’s time and consideration.
 
 **R – Result:**  
-Through this process, I improved my ability to express myself professionally in writing. I now understand how important a strong cover letter is in creating a positive first impression with employers.
+Through this process, I strengthened my ability to communicate professionally and with purpose. I learned how applying the **7 Cs of Communication** makes a message more impactful and credible. Writing the cover letter taught me to express my thoughts in a structured, confident way that leaves a positive impression. I now understand that effective business communication is not only about what you say but *how* you say it — and that clarity, tone, and respect play a major role in building professional relationships. This experience has given me the confidence to approach future employers with professionalism and authenticity.
 
 ---
+
+
 
 ## 🗺️  Closing Thoughts
 
