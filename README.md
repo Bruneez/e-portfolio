@@ -262,6 +262,46 @@ I prepared by reviewing common ICT interview questions, practicing responses usi
 The mock interview gave me valuable real-world practice in presenting myself professionally and handling interview questions effectively. I learned how to structure my answers better, manage nerves, and use communication strategies to show confidence. The experience has made me more prepared for actual ICT job interviews and motivated me to continue refining my communication and presentation skills.  
 
 ---
+## 🌐 Professional Networking  
+
+### 📎 Evidence  
+
+**👤 LinkedIn Profile**  
+![LinkedIn Profile Screenshot](./linkedin_profile.png)  
+*Screenshot of my LinkedIn profile showing my professional headline, “About” section, and growing network of ICT professionals.*  
+<br>
+
+**🏢 LinkedIn Activity / Connections**  
+![LinkedIn Connections](./evidence/linkedin-connections.png)  
+*Screenshot showing my engagement with ICT-related posts and connections with industry professionals.*  
+<br>
+
+**📜 LinkedIn Learning Certificate**  
+[View LinkedIn Certificate – Building Your Professional Brand Online (PDF)](./evidence/linkedin-networking-certificate.pdf)  
+*Certificate showing completion of LinkedIn Learning course on building a professional online presence and networking effectively.*  
+<br>
+
+**✉️ Professional Email Example**  
+![Networking Email Example](./evidence/networking-email.png)  
+*Example of a professional email I wrote to connect with an ICT company to inquire about internship opportunities.*  
+<br>
+
+---
+
+### 📝 Reflection – STAR Method  
+
+**S – Situation:**  
+As part of my Work Readiness module, I was introduced to the concept of **professional networking** and how it plays an important role in career development. I created and refined my **LinkedIn profile** to start connecting with professionals in the ICT industry, explore career paths, and learn from others’ experiences. I also completed a **LinkedIn Learning course** to help me understand how to present myself professionally online and build meaningful connections.
+
+**T – Task:**  
+My main goal was to build a strong and credible professional identity that reflects my skills, academic background, and career interests. I needed to make sure that my profile communicated professionalism while showcasing who I am as an aspiring ICT professional. I also wanted to learn how to communicate effectively with potential employers and mentors through online platforms and professional emails.
+
+**A – Action:**  
+I updated my LinkedIn profile with a clear headline, a professional photo, and a well-written summary that highlights my goals and technical skills in areas such as Java, SQL, and app development. I followed companies I’m interested in, such as Sanlam and Microsoft, and connected with peers and industry professionals. I also practiced writing **professional connection messages and emails** that reflect the 7 Cs of communication — being clear, concise, and courteous. Additionally, I completed a LinkedIn Learning course on **Building Your Professional Brand**, which guided me on how to maintain a consistent and positive online presence.
+
+**R – Result:**  
+Through this process, I gained confidence in networking and presenting myself professionally online. My LinkedIn profile now serves as a platform to share my achievements, connect with others in the ICT community, and stay updated on industry trends. I’ve learned that networking isn’t just about making contacts — it’s about building relationships that can lead to mentorship, learning, and career growth. Moving forward, I plan to keep engaging with professionals, expanding my connections, and contributing to discussions that reflect my passion for technology and continuous learning.
+
 
 ## 🗺️  Closing Thoughts
 
