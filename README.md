@@ -181,7 +181,7 @@ Through this process, I strengthened my ability to communicate professionally an
 <br>
 
 **📜 LinkedIn Learning Certificate**  
-[View LinkedIn Course Certificate – Mastering Common Interview Questions (PDF)](./evidence/LinkedIn_Course_InterviewSkills.pdf)  
+[View LinkedIn Course Certificate – Mastering Common Interview Questions (PDF)](./LinkedIn_Cerificate.pdf)  
 *Certificate of completion for LinkedIn Learning’s “Mastering Common Interview Questions” course.*  
 <br>
 
@@ -214,11 +214,6 @@ Through this process, I gained a clearer understanding of how to approach interv
 **🎬 Mock Interview Video**  
 [View My Mock Interview Video](./evidence/Mock_Interview.mp4)  
 *Recorded mock interview where I practiced ICT-specific interview questions.*  
-<br>
-
-**📄 Mock Interview Feedback Summary (PDF)**  
-[View My Mock Interview Feedback (PDF)](./evidence/mock-interview-feedback.pdf)  
-*Feedback summary highlighting my communication strengths, confidence, and technical understanding.*  
 <br>
 
 
