@@ -145,20 +145,45 @@ Updating my CV helped me recognize how much I’ve developed since starting my d
 ![Business Communication evidence]https://github.com/Bruneez/e-portfolio/blob/main/Business%20Communication%20evidence/businessa_comminication_email.png
 
 *Professional email for job-shadowing.*
+<br>
+<img width="1800" height="746" alt="bc_quiz" src="https://github.com/user-attachments/assets/63347d78-8b20-493a-976c-84101b295fd4" />
+
+*Business quiz*
+
 
 ### 📝 Reflection – STAR Method
 
 **S – Situation:**  
-As part of my Work Readiness module, I was required to approach potential companies to enquire about possible internship opportunities. One of the organizations I contacted was **Sanlam**, where I expressed my interest in gaining practical ICT experience. To make a strong impression, I needed to create a **professional cover letter** to accompany my CV. This activity helped me apply the principles of business communication in a real-world context while practicing how to communicate effectively and professionally with employers.
+As part of my Work Readiness module, I was required to approach potential companies to enquire about possible internship opportunities. One of the organizations I contacted was **Sanlam**, where I expressed my interest in gaining practical ICT experience. In addition, I completed a **Business Communication quiz**, which tested my understanding of key communication concepts such as tone, etiquette, and non-verbal cues. Together, these activities helped me strengthen both my practical and theoretical understanding of workplace communication. To make a strong impression, I needed to create a **professional cover letter** to accompany my CV. This activity helped me apply the principles of business communication in a real-world context while practicing how to communicate effectively and professionally with employers.
 
 **T – Task:**  
-In preparing my email and cover letter, my goal was to demonstrate professionalism through clear, confident, and well-structured writing. I needed to ensure that my message followed the **7 Cs of effective communication** — being **Clear, Concise, Concrete, Correct, Coherent, Complete, and Courteous**. I wanted my writing to not only highlight my technical skills and career goals but also reflect my enthusiasm, attention to detail, and respect for the employer’s time.
+In preparing my email and cover letter, my goal was to demonstrate professionalism through clear, confident, and well-structured writing. I needed to ensure that my message followed the **7 Cs of effective communication** — being **Clear, Concise, Concrete, Correct, Coherent, Complete, and Courteous**. I wanted my writing to not only highlight my technical skills and career goals but also reflect my enthusiasm, attention to detail, and respect for the employer’s time. In the quiz, I also had to apply these principles conceptually, understanding when to use formal language, how to structure a message appropriately, and what etiquette to follow in business settings like video conferencing.
 
 **A – Action:**  
 I began by researching Sanlam’s company values and the qualities they look for in interns. I then drafted my cover letter carefully, ensuring that the tone remained formal and respectful. I reviewed it multiple times to improve clarity and flow, removed unnecessary words to stay concise, and double-checked grammar and structure to keep it correct. I also ensured that the letter was complete by including all relevant information — my academic background, technical skills (such as Java, SQL, and app development), and my motivation for applying. Lastly, I maintained a courteous tone, showing appreciation for the reader’s time and consideration.
 
 **R – Result:**  
 Through this process, I strengthened my ability to communicate professionally and with purpose. I learned how applying the **7 Cs of Communication** makes a message more impactful and credible. Writing the cover letter taught me to express my thoughts in a structured, confident way that leaves a positive impression. I now understand that effective business communication is not only about what you say but *how* you say it — and that clarity, tone, and respect play a major role in building professional relationships. This experience has given me the confidence to approach future employers with professionalism and authenticity.
+
+---
+## 💬 Interview Skills
+
+### 📎 Evidence
+![Interview Skills Evidence](link-to-your-image-or-pdf.png)
+
+### 📝 Reflection – STAR Method
+
+**S – Situation:**  
+I attended sessions where we learned how to prepare for job interviews and answer common interview questions effectively.  
+
+**T – Task:**  
+My goal was to improve how I present myself, respond under pressure, and express my strengths confidently.  
+
+**A – Action:**  
+I researched interview questions, practiced responses, and worked on my body language and tone of voice.  
+
+**R – Result:**  
+I became more confident in interviews, learned how to highlight my skills clearly, and now feel better prepared for real-world interviews.
 
 ---
 
