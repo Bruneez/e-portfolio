@@ -174,26 +174,52 @@ Through this process, I strengthened my ability to communicate professionally an
 ## 💬 Interview Skills
 
 ### 📎 Evidence
-![Interview Skills Evidence](https://github.com/Bruneez/e-portfolio/blob/main/Business%20Communication%20evidence/interview_skills_quiz.png)
-*Screenshot showing my results from the Interview Skills quiz, where I demonstrated my understanding of effective interview techniques.*
+![Interview Skills Quiz](./Business_Communication/interview_skills_quiz.png)  
+*Screenshot showing my completion of the Interview Skills quiz.* 
 <br>
-![Interview Skills Evidence](https://github.com/Bruneez/e-portfolio/blob/main/Business%20Communication%20evidence/interview_skills_quiz.png)
-*......*
+
+[📄 View LinkedIn Course Certificate – Mastering Common Interview Questions (PDF)](./evidence/LinkedIn_Course_InterviewSkills.pdf)  
+*Certificate of completion for LinkedIn Learning’s “Mastering Common Interview Questions” course.*  
 <br>
+
+[📄 View My Interview Practice Q&A (PDF)](./Interview_Practice_Qestions.pdf)  
+*A short document where I practiced answering common interview questions.*
+
+---
+### 📝 Reflection – STAR Method
+
+**S – Situation:**  
+As part of my Work Readiness module, I focused on improving my interview skills through both practical and theoretical activities. I completed a **LinkedIn Learning course on mastering common interview questions**, and I also participated in an **Interview Skills quiz** to test my understanding of effective interview communication. These activities were designed to help me gain confidence in how to present myself professionally and communicate my strengths clearly during real interviews.
+
+**T – Task:**  
+The goal was to learn how to handle interview situations confidently — from answering common questions like “Tell me about yourself” to managing difficult ones such as “What are your weaknesses?”. I needed to understand how to use structured methods such as the **CAR (Context, Action, Result)** approach to form strong, focused answers. I also had to apply the principles of professional communication, such as being clear, concise, and confident in tone and delivery.
+
+**A – Action:**  
+I started by completing the **LinkedIn course**, where I learned how to prepare for interviews, research company backgrounds, and respond using strategies that highlight my skills and personality. I practiced tailoring my answers to fit my career goals in ICT and reviewed examples of how to express both technical knowledge and soft skills effectively. Then, in the **Interview Skills quiz**, I tested my understanding of these concepts — including how to use formal communication, demonstrate self-awareness, and maintain professionalism under pressure. I took note of the questions I initially got wrong and reviewed the correct answers to strengthen my understanding.
+
+**R – Result:**  
+Through this process, I gained a clearer understanding of how to approach interviews with confidence and purpose. The quiz helped me identify gaps in my knowledge and reinforced key interview techniques such as the **CAR method** and the importance of preparation. The LinkedIn course improved my awareness of non-verbal communication, active listening, and the power of first impressions. I now feel better equipped to speak about my experience, skills, and goals in a professional and structured way — which will be invaluable when I start applying for internships and entry-level ICT roles.
+
+---
+
+## 🎥 Mock Interview
+
+### 📎 Evidence
+![Mock Interview Evidence](link-to-your-image-or-video.png)
 
 ### 📝 Reflection – STAR Method
 
 **S – Situation:**  
-I attended sessions where we learned how to prepare for job interviews and answer common interview questions effectively.  
+I took part in a mock interview session to simulate a real-world interview experience.  
 
 **T – Task:**  
-My goal was to improve how I present myself, respond under pressure, and express my strengths confidently.  
+The aim was to test my readiness and get feedback on my interview performance.  
 
 **A – Action:**  
-I researched interview questions, practiced responses, and worked on my body language and tone of voice.  
+I prepared answers, dressed professionally, and practiced using confident communication and body language.  
 
 **R – Result:**  
-I became more confident in interviews, learned how to highlight my skills clearly, and now feel better prepared for real-world interviews.
+The feedback helped me identify areas to improve, like being more concise and maintaining eye contact. It was an insightful experience that strengthened my interview confidence.
 
 ---
 
