@@ -204,7 +204,7 @@ Through this process, I gained a clearer understanding of how to approach interv
 ## 🎥 Mock Interview
 
 ### 📎 Evidence
-![Mock Interview Evidence](link-to-your-image-or-video.png)
+![Mock Interview Evidence](222127600_Mock_Interviewmp4)
 
 ### 📝 Reflection – STAR Method
 
@@ -219,10 +219,8 @@ I prepared by reviewing common ICT interview questions, practicing responses usi
 
 **R – Result:**  
 The mock interview gave me valuable real-world practice in presenting myself professionally and handling interview questions effectively. I learned how to structure my answers better, manage nerves, and use communication strategies to show confidence. The experience has made me more prepared for actual ICT job interviews and motivated me to continue refining my communication and presentation skills.
+
 ---
-
-
-
 ## 🗺️  Closing Thoughts
 
 Creating this e-portfolio has been more than just an academic task it’s been a personal journey of discovery, growth, and direction. From uncovering my personality strengths to identifying career paths that truly excite me, each activity has helped me understand myself better as an aspiring ICT professional. I now feel more confident, focused, and ready to step into the working world with purpose. This portfolio reflects not only what I’ve done, but who I’m becoming and I’m excited for the path ahead.
