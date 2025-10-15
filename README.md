@@ -176,7 +176,7 @@ Through this process, I strengthened my ability to communicate professionally an
 ### 📎 Evidence  
 
 **🧠 Interview Skills Quiz**  
-![Interview Skills Quiz](./Business_Communication_evidence/interview_skills_quiz.png)  
+![Interview Skills Quiz](./Business Communication evidence/interview_skills_quiz.png)  
 *Screenshot showing my completion of the Interview Skills quiz.*  
 <br>
 
@@ -212,7 +212,7 @@ Through this process, I gained a clearer understanding of how to approach interv
 ### 📎 Evidence  
 
 **🎬 Mock Interview Video**  
-[View My Mock Interview Video](./evidence/Mock_Interview.mp4)  
+[View My Mock Interview Video](./Mock_Interview.mp4)  
 *Recorded mock interview where I practiced ICT-specific interview questions.*  
 <br>
 
