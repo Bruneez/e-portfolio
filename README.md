@@ -143,7 +143,8 @@ Updating my CV helped me recognize how much I’ve developed since starting my d
 *This cover letter demonstrates my ability to communicate effectively in a formal business context.*
 <br><br>
 ![Business Communication evidence]https://github.com/Bruneez/e-portfolio/blob/main/Business%20Communication%20evidence/businessa_comminication_email.png
-*Special email for job-shadowing"
+
+*Special email for job-shadowing.*
 
 ---
 
@@ -161,6 +162,7 @@ I drafted and refined my cover letter by focusing on tone, structure, and clarit
 **R – Result:**  
 Through this process, I improved my ability to express myself professionally in writing. I now understand how important a strong cover letter is in creating a positive first impression with employers.
 
+---
 
 ## 🗺️  Closing Thoughts
 
