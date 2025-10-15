@@ -139,9 +139,11 @@ Updating my CV helped me recognize how much I’ve developed since starting my d
 
 ### 📎 Evidence 
 [My_Cover.letter.pdf](https://github.com/user-attachments/files/22917703/My_Cover.letter.pdf)
+<br>
 *This cover letter demonstrates my ability to communicate effectively in a formal business context.*
-
-
+<br><br>
+![Business Communication evidence]https://github.com/Bruneez/e-portfolio/blob/main/Business%20Communication%20evidence/businessa_comminication_email.png
+*Special email for job-shadowing"
 
 ---
 
