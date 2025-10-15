@@ -174,7 +174,12 @@ Through this process, I strengthened my ability to communicate professionally an
 ## 💬 Interview Skills
 
 ### 📎 Evidence
-![Interview Skills Evidence](link-to-your-image-or-pdf.png)
+![Interview Skills Evidence](https://github.com/Bruneez/e-portfolio/blob/main/Business%20Communication%20evidence/interview_skills_quiz.png)
+*Screenshot showing my results from the Interview Skills quiz, where I demonstrated my understanding of effective interview techniques.*
+<br>
+![Interview Skills Evidence](https://github.com/Bruneez/e-portfolio/blob/main/Business%20Communication%20evidence/interview_skills_quiz.png)
+*......*
+<br>
 
 ### 📝 Reflection – STAR Method
 
