@@ -135,6 +135,32 @@ I began by identifying key sections such as Education, Skills, Projects, and Ach
 Updating my CV helped me recognize how much I’ve developed since starting my diploma. I now have a clearer picture of the kind of roles I want to pursue such as software developer, backend developer, or data-focused roles like machine learning assistant or database administrator. The final CV presents a well-rounded image of me: technically skilled, eager to learn, and ready to contribute meaningfully in the tech industry. It also gave me more confidence in applying for internships, jobs, or showcasing myself online via LinkedIn or my portfolio.
 
 ---
+## 🗣️ Business Communication
+
+### 📎 Evidence 
+
+[📄 View My Cover Letter (PDF)](./[My_Cover letter.pdf](https://github.com/user-attachments/files/22917376/My_Cover.letter.pdf)
+.pdf)  
+*This cover letter demonstrates my ability to communicate effectively in a formal business context.*
+
+
+
+---
+
+### 📝 Reflection – STAR Method
+
+**S – Situation:**  
+As part of my Work Readiness module, I had to create a professional cover letter to accompany my CV when applying for internship opportunities.  
+
+**T – Task:**  
+My goal was to write a formal, well-structured letter that highlights my skills and career interests effectively.  
+
+**A – Action:**  
+I drafted and refined my cover letter by focusing on tone, structure, and clarity. I made sure it was tailored to the ICT industry and reflected my personality and values.  
+
+**R – Result:**  
+Through this process, I improved my ability to express myself professionally in writing. I now understand how important a strong cover letter is in creating a positive first impression with employers.
+
 
 ## 🗺️  Closing Thoughts
 
