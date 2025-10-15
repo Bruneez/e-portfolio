@@ -138,10 +138,6 @@ Updating my CV helped me recognize how much I’ve developed since starting my d
 ## 🗣️ Business Communication
 
 ### 📎 Evidence 
-<img width="1800" height="746" alt="bc_quiz" src="https://github.com/user-attachments/assets/63347d78-8b20-493a-976c-84101b295fd4" />
-
-*Screenshot that show my results where i demonstated my understanding on the impotance of communication in a workplace*
-<br>
 
 [My_Cover.letter.pdf](https://github.com/user-attachments/files/22917703/My_Cover.letter.pdf)
 <br>
@@ -204,7 +200,7 @@ Through this process, I gained a clearer understanding of how to approach interv
 ## 🎥 Mock Interview
 
 ### 📎 Evidence
-![Mock Interview Evidence](222127600_Mock_Interviewmp4)
+![Mock Interview Evidence](222127600_Mock_Interview.mp4)
 
 ### 📝 Reflection – STAR Method
 
