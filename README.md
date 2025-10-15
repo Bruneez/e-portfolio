@@ -135,119 +135,139 @@ I began by identifying key sections such as Education, Skills, Projects, and Ach
 Updating my CV helped me recognize how much I’ve developed since starting my diploma. I now have a clearer picture of the kind of roles I want to pursue such as software developer, backend developer, or data-focused roles like machine learning assistant or database administrator. The final CV presents a well-rounded image of me: technically skilled, eager to learn, and ready to contribute meaningfully in the tech industry. It also gave me more confidence in applying for internships, jobs, or showcasing myself online via LinkedIn or my portfolio.
 
 ---
-## 🗣️ Business Communication
+## 🗣️ Business Communication  
 
-### 📎 Evidence 
+### 📎 Evidence  
 
-[My_Cover.letter.pdf](https://github.com/user-attachments/files/22917703/My_Cover.letter.pdf)
-<br>
-*This cover letter demonstrates my ability to communicate effectively in a formal business context.*
-<br><br>
-![Business Communication evidence]https://github.com/Bruneez/e-portfolio/blob/main/Business%20Communication%20evidence/businessa_comminication_email.png
-
-*Professional email for job-shadowing.*
-<br>
-<img width="1800" height="746" alt="bc_quiz" src="https://github.com/user-attachments/assets/63347d78-8b20-493a-976c-84101b295fd4" />
-
-*Screenshot that show my results where i demonstated my understanding on the impotance of communication in a workplace*
+**📄 Cover Letter Evidence**  
+[View My Cover Letter (PDF)](https://github.com/user-attachments/files/22917703/My_Cover.letter.pdf)  
+*This cover letter demonstrates my ability to communicate effectively in a formal business context.*  
 <br>
 
-### 📝 Reflection – STAR Method
+**📧 Professional Email Evidence**  
+![Business Communication Email](https://github.com/Bruneez/e-portfolio/blob/main/Business%20Communication%20evidence/businessa_comminication_email.png)  
+*Professional email created for job-shadowing communication.*  
+<br>
+
+**🧠 Business Communication Quiz Evidence**  
+<img width="800" alt="bc_quiz" src="https://github.com/user-attachments/assets/63347d78-8b20-493a-976c-84101b295fd4" />  
+*Screenshot showing my completion of the Business Communication quiz, where I demonstrated my understanding of effective communication in the workplace.*  
+<br>
+
+
+### 📝 Reflection – STAR Method  
 
 **S – Situation:**  
-As part of my Work Readiness module, I was required to approach potential companies to enquire about possible internship opportunities. One of the organizations I contacted was **Sanlam**, where I expressed my interest in gaining practical ICT experience. In addition, I completed a **Business Communication quiz**, which tested my understanding of key communication concepts such as tone, etiquette, and non-verbal cues. Together, these activities helped me strengthen both my practical and theoretical understanding of workplace communication. To make a strong impression, I needed to create a **professional cover letter** to accompany my CV. This activity helped me apply the principles of business communication in a real-world context while practicing how to communicate effectively and professionally with employers.
+As part of my Work Readiness module, I was required to approach potential companies to enquire about possible internship opportunities. One of the organizations I contacted was **Sanlam**, where I expressed my interest in gaining practical ICT experience. In addition, I completed a **Business Communication quiz**, which tested my understanding of key communication concepts such as tone, etiquette, and non-verbal cues. Together, these activities helped me strengthen both my practical and theoretical understanding of workplace communication.  
 
 **T – Task:**  
-In preparing my email and cover letter, my goal was to demonstrate professionalism through clear, confident, and well-structured writing. I needed to ensure that my message followed the **7 Cs of effective communication** — being **Clear, Concise, Concrete, Correct, Coherent, Complete, and Courteous**. I wanted my writing to not only highlight my technical skills and career goals but also reflect my enthusiasm, attention to detail, and respect for the employer’s time. In the quiz, I also had to apply these principles conceptually, understanding when to use formal language, how to structure a message appropriately, and what etiquette to follow in business settings like video conferencing.
+In preparing my email and cover letter, my goal was to demonstrate professionalism through clear, confident, and well-structured writing. I needed to ensure that my message followed the **7 Cs of effective communication** — being **Clear, Concise, Concrete, Correct, Coherent, Complete, and Courteous**. I wanted my writing to not only highlight my technical skills and career goals but also reflect my enthusiasm, attention to detail, and respect for the employer’s time.  
 
 **A – Action:**  
-I began by researching Sanlam’s company values and the qualities they look for in interns. I then drafted my cover letter carefully, ensuring that the tone remained formal and respectful. I reviewed it multiple times to improve clarity and flow, removed unnecessary words to stay concise, and double-checked grammar and structure to keep it correct. I also ensured that the letter was complete by including all relevant information — my academic background, technical skills (such as Java, SQL, and app development), and my motivation for applying. Lastly, I maintained a courteous tone, showing appreciation for the reader’s time and consideration.
+I began by researching Sanlam’s company values and the qualities they look for in interns. I then drafted my cover letter carefully, ensuring that the tone remained formal and respectful. I reviewed it multiple times to improve clarity and flow, removed unnecessary words to stay concise, and double-checked grammar and structure to keep it correct. I also ensured that the letter was complete by including all relevant information — my academic background, technical skills (such as Java, SQL, and app development), and my motivation for applying. Lastly, I maintained a courteous tone, showing appreciation for the reader’s time and consideration.  
 
 **R – Result:**  
-Through this process, I strengthened my ability to communicate professionally and with purpose. I learned how applying the **7 Cs of Communication** makes a message more impactful and credible. Writing the cover letter taught me to express my thoughts in a structured, confident way that leaves a positive impression. I now understand that effective business communication is not only about what you say but *how* you say it — and that clarity, tone, and respect play a major role in building professional relationships. This experience has given me the confidence to approach future employers with professionalism and authenticity.
+Through this process, I strengthened my ability to communicate professionally and with purpose. I learned how applying the **7 Cs of Communication** makes a message more impactful and credible. Writing the cover letter taught me to express my thoughts in a structured, confident way that leaves a positive impression. I now understand that effective business communication is not only about what you say but *how* you say it — and that clarity, tone, and respect play a major role in building professional relationships.  
 
 ---
-## 💬 Interview Skills
 
-### 📎 Evidence
+## 💬 Interview Skills  
+
+### 📎 Evidence  
+
+**🧠 Interview Skills Quiz**  
 ![Interview Skills Quiz](./Business_Communication/interview_skills_quiz.png)  
-*Screenshot showing my completion of the Interview Skills quiz.* 
+*Screenshot showing my completion of the Interview Skills quiz.*  
 <br>
 
-[📄 View LinkedIn Course Certificate – Mastering Common Interview Questions (PDF)](./evidence/LinkedIn_Course_InterviewSkills.pdf)  
+**📜 LinkedIn Learning Certificate**  
+[View LinkedIn Course Certificate – Mastering Common Interview Questions (PDF)](./evidence/LinkedIn_Course_InterviewSkills.pdf)  
 *Certificate of completion for LinkedIn Learning’s “Mastering Common Interview Questions” course.*  
 <br>
 
-[📄 View My Interview Practice Q&A (PDF)](./Interview_Practice_Qestions.pdf)  
-*A short document where I practiced answering common interview questions.*
+**📄 Interview Practice Q&A**  
+[View My Interview Practice Q&A (PDF)](./Interview_Practice_Qestions.pdf)  
+*A short document where I practiced answering common interview questions using the CAR (Context, Action, Result) method.*  
 <br>
-### 📝 Reflection – STAR Method
+
+
+### 📝 Reflection – STAR Method  
 
 **S – Situation:**  
-As part of my Work Readiness module, I focused on improving my interview skills through both practical and theoretical activities. I completed a **LinkedIn Learning course on mastering common interview questions**, and I also participated in an **Interview Skills quiz** to test my understanding of effective interview communication. These activities were designed to help me gain confidence in how to present myself professionally and communicate my strengths clearly during real interviews.
+As part of my Work Readiness module, I focused on improving my interview skills through both practical and theoretical activities. I completed a **LinkedIn Learning course on mastering common interview questions**, and I also participated in an **Interview Skills quiz** to test my understanding of effective interview communication. These activities were designed to help me gain confidence in how to present myself professionally and communicate my strengths clearly during real interviews.  
 
 **T – Task:**  
-The goal was to learn how to handle interview situations confidently from answering common questions like “Tell me about yourself” to managing difficult ones such as “What are your weaknesses?”. I needed to understand how to use structured methods such as the **CAR (Context, Action, Result)** approach to form strong, focused answers. I also had to apply the principles of professional communication, such as being clear, concise, and confident in tone and delivery.
+The goal was to learn how to handle interview situations confidently — from answering common questions like “Tell me about yourself” to managing difficult ones such as “What are your weaknesses?”. I needed to understand how to use structured methods such as the **CAR (Context, Action, Result)** approach to form strong, focused answers.  
 
 **A – Action:**  
-I started by completing the **LinkedIn course**, where I learned how to prepare for interviews, research company backgrounds, and respond using strategies that highlight my skills and personality. I practiced tailoring my answers to fit my career goals in ICT and reviewed examples of how to express both technical knowledge and soft skills effectively. Then, in the **Interview Skills quiz**, I tested my understanding of these concepts including how to use formal communication, demonstrate self-awareness, and maintain professionalism under pressure. I took note of the questions I initially got wrong and reviewed the correct answers to strengthen my understanding.
+I started by completing the LinkedIn course, where I learned how to prepare for interviews, research company backgrounds, and respond using strategies that highlight my skills and personality. I practiced tailoring my answers to fit my career goals in ICT and reviewed examples of how to express both technical knowledge and soft skills effectively. Then, in the **Interview Skills quiz**, I tested my understanding of these concepts — including how to use formal communication, demonstrate self-awareness, and maintain professionalism under pressure.  
 
 **R – Result:**  
-Through this process, I gained a clearer understanding of how to approach interviews with confidence and purpose. The quiz helped me identify gaps in my knowledge and reinforced key interview techniques such as the **CAR method** and the importance of preparation. The LinkedIn course improved my awareness of non-verbal communication, active listening, and the power of first impressions. I now feel better equipped to speak about my experience, skills, and goals in a professional and structured way which will be invaluable when I start applying for internships and entry-level ICT roles.
+Through this process, I gained a clearer understanding of how to approach interviews with confidence and purpose. The quiz helped me identify gaps in my knowledge and reinforced key interview techniques such as the CAR method and the importance of preparation. The LinkedIn course improved my awareness of non-verbal communication, active listening, and the power of first impressions. I now feel better equipped to speak about my experience, skills, and goals in a professional and structured way — which will be invaluable when I start applying for internships and entry-level ICT roles.  
 
 ---
 
-## 🎥 Mock Interview
+## 🎥 Mock Interview  
 
-### 📎 Evidence
-![Mock Interview Evidence](222127600_Mock_Interview.mp4)
-"My Mock Interview Video"
----
+### 📎 Evidence  
 
-## 🧩 General Feedback
-Bruneez demonstrated strong preparation and professionalism throughout the mock interview. He showed a clear understanding of interview structure and maintained confident body language. His communication was calm, polite, and reflective of someone ready to enter the professional ICT environment.
+**🎬 Mock Interview Video**  
+[View My Mock Interview Video](./evidence/Mock_Interview.mp4)  
+*Recorded mock interview where I practiced ICT-specific interview questions.*  
+<br>
+
+**📄 Mock Interview Feedback Summary (PDF)**  
+[View My Mock Interview Feedback (PDF)](./evidence/mock-interview-feedback.pdf)  
+*Feedback summary highlighting my communication strengths, confidence, and technical understanding.*  
+<br>
 
 
+### 🧾 General Feedback  
 
-## 💬 Strengths
-- **Confidence and clarity:** Bruneez spoke clearly, maintained eye contact, and used professional language.  
+Bruneez demonstrated strong preparation and professionalism throughout the mock interview. He showed a clear understanding of interview structure and maintained confident body language. His communication was calm, polite, and reflective of someone ready to enter the professional ICT environment.  
+
+
+### 💬 Strengths  
+- **Confidence and clarity:** Spoke clearly, maintained eye contact, and used professional language.  
 - **Preparation:** Answers were well-thought-out and aligned with the ICT position.  
 - **Professional presentation:** Displayed appropriate tone, posture, and enthusiasm.  
 - **Technical understanding:** Demonstrated solid foundational knowledge in Java, SQL, and general system concepts.  
 
 
-## 🔧 Areas for Improvement
-- Could provide **more detailed examples** from academic or project experience to strengthen answers.  
-- Should practice giving **shorter, more focused responses** to avoid over-explaining.  
+### 🔧 Areas for Improvement  
+- Could provide more detailed examples from academic or project experience to strengthen answers.  
+- Should practice giving shorter, more focused responses to avoid over-explaining.  
 - Continue improving non-verbal communication (e.g., smiling and gestures) to show more engagement.  
 
 
-## 🧠 Interviewer’s Comments
-> “Bruneez shows great potential for success in professional interviews. His confidence and technical background are evident. With continued practice and refinement of examples, he will perform very well in real ICT interview situations.”
+### 🧠 Interviewer’s Comments  
+> “Bruneez shows great potential for success in professional interviews. His confidence and technical background are evident. With continued practice and refinement of examples, he will perform very well in real ICT interview situations.”  
 
 
-## ✅ Overall Rating
-⭐ **Excellent (8.5 / 10)** – Well-prepared, professional, and confident. Shows readiness for internship interviews.
+### ✅ Overall Rating  
+⭐ **Excellent (8.5 / 10)** – Well-prepared, professional, and confident. Shows readiness for internship interviews.  
 
-
-**Interviewer:** [Insert name or “Work Readiness Facilitator”]  
+**Interviewer:** Work Readiness Facilitator  
 **Signature:** __________________________  
 
-### 📝 Reflection – STAR Method
+
+
+### 📝 Reflection – STAR Method  
 
 **S – Situation:**  
-The mock interview was one of the most valuable parts of my work readiness journey. It gave me a real sense of what to expect in an actual ICT job interview and allowed me to practice presenting my skills and experiences confidently. This activity helped me understand how to apply communication techniques, manage interview anxiety, and tailor my answers to specific IT roles.
+TThe mock interview was one of the most valuable parts of my work readiness journey. It gave me a real sense of what to expect in an actual ICT job interview and allowed me to practice presenting my skills and experiences confidently. This activity helped me understand how to apply communication techniques, manage interview anxiety, and tailor my answers to specific IT roles.  
 
 **T – Task:**  
-I needed to prepare for a technical interview that assessed both my communication skills and knowledge in ICT. My goal was to present myself professionally, answer questions clearly, and demonstrate my understanding of IT concepts relevant to the role.
+I needed to prepare for a technical interview that assessed both my communication skills and knowledge in ICT. My goal was to present myself professionally, answer questions clearly, and demonstrate my understanding of IT concepts relevant to the role 
 
 **A – Action:**  
-I prepared by reviewing common ICT interview questions, practicing responses using the CAR method, and researching how to align my skills with the company’s needs. During the mock interview, I maintained eye contact, used professional body language, and spoke clearly about my technical experience, including projects in Java and SQL. After the interview, I received feedback that helped me identify my strengths (confidence, tone, and preparation) and areas for improvement (elaborating more on examples).
+I prepared by reviewing common ICT interview questions, practicing responses using the CAR method, and researching how to align my skills with the company’s needs. During the mock interview, I maintained eye contact, used professional body language, and spoke clearly about my technical experience, including projects in Java and SQL. After the interview, I received feedback that helped me identify my strengths (confidence, tone, and preparation) and areas for improvement (elaborating more on examples).  
 
 **R – Result:**  
-The mock interview gave me valuable real-world practice in presenting myself professionally and handling interview questions effectively. I learned how to structure my answers better, manage nerves, and use communication strategies to show confidence. The experience has made me more prepared for actual ICT job interviews and motivated me to continue refining my communication and presentation skills.
+The mock interview gave me valuable real-world practice in presenting myself professionally and handling interview questions effectively. I learned how to structure my answers better, manage nerves, and use communication strategies to show confidence. The experience has made me more prepared for actual ICT job interviews and motivated me to continue refining my communication and presentation skills.  
 
 ---
+
 ## 🗺️  Closing Thoughts
 
 Creating this e-portfolio has been more than just an academic task it’s been a personal journey of discovery, growth, and direction. From uncovering my personality strengths to identifying career paths that truly excite me, each activity has helped me understand myself better as an aspiring ICT professional. I now feel more confident, focused, and ready to step into the working world with purpose. This portfolio reflects not only what I’ve done, but who I’m becoming and I’m excited for the path ahead.
