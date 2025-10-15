@@ -148,7 +148,7 @@ Updating my CV helped me recognize how much I’ve developed since starting my d
 <br>
 <img width="1800" height="746" alt="bc_quiz" src="https://github.com/user-attachments/assets/63347d78-8b20-493a-976c-84101b295fd4" />
 
-*Business quiz*
+*Screenshot that show my results where i demonstated my understanding on the impotance of communication in a workplace*
 
 
 ### 📝 Reflection – STAR Method
