@@ -138,9 +138,7 @@ Updating my CV helped me recognize how much I’ve developed since starting my d
 ## 🗣️ Business Communication
 
 ### 📎 Evidence 
-
-[📄 View My Cover Letter (PDF)](./[My_Cover letter.pdf](https://github.com/user-attachments/files/22917376/My_Cover.letter.pdf)
-.pdf)  
+[My_Cover.letter.pdf](https://github.com/user-attachments/files/22917703/My_Cover.letter.pdf)
 *This cover letter demonstrates my ability to communicate effectively in a formal business context.*
 
 
