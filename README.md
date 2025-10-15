@@ -201,13 +201,13 @@ Through this process, I gained a clearer understanding of how to approach interv
 
 ### 📎 Evidence
 ![Mock Interview Evidence](222127600_Mock_Interview.mp4)
-"my
+"My Mock Interview Video"
 ---
 
 ## 🧩 General Feedback
 Bruneez demonstrated strong preparation and professionalism throughout the mock interview. He showed a clear understanding of interview structure and maintained confident body language. His communication was calm, polite, and reflective of someone ready to enter the professional ICT environment.
 
----
+--
 
 ## 💬 Strengths
 - **Confidence and clarity:** Bruneez spoke clearly, maintained eye contact, and used professional language.  
@@ -215,24 +215,24 @@ Bruneez demonstrated strong preparation and professionalism throughout the mock 
 - **Professional presentation:** Displayed appropriate tone, posture, and enthusiasm.  
 - **Technical understanding:** Demonstrated solid foundational knowledge in Java, SQL, and general system concepts.  
 
----
+--
 
 ## 🔧 Areas for Improvement
 - Could provide **more detailed examples** from academic or project experience to strengthen answers.  
 - Should practice giving **shorter, more focused responses** to avoid over-explaining.  
 - Continue improving non-verbal communication (e.g., smiling and gestures) to show more engagement.  
 
----
+--
 
 ## 🧠 Interviewer’s Comments
 > “Bruneez shows great potential for success in professional interviews. His confidence and technical background are evident. With continued practice and refinement of examples, he will perform very well in real ICT interview situations.”
 
----
+--
 
 ## ✅ Overall Rating
 ⭐ **Excellent (8.5 / 10)** – Well-prepared, professional, and confident. Shows readiness for internship interviews.
 
----
+--
 
 **Interviewer:** [Insert name or “Work Readiness Facilitator”]  
 **Signature:** __________________________  
