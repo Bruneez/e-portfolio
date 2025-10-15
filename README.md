@@ -209,17 +209,16 @@ Through this process, I gained a clearer understanding of how to approach interv
 ### 📝 Reflection – STAR Method
 
 **S – Situation:**  
-I took part in a mock interview session to simulate a real-world interview experience.  
+The mock interview was one of the most valuable parts of my work readiness journey. It gave me a real sense of what to expect in an actual ICT job interview and allowed me to practice presenting my skills and experiences confidently. This activity helped me understand how to apply communication techniques, manage interview anxiety, and tailor my answers to specific IT roles.
 
 **T – Task:**  
-The aim was to test my readiness and get feedback on my interview performance.  
+I needed to prepare for a technical interview that assessed both my communication skills and knowledge in ICT. My goal was to present myself professionally, answer questions clearly, and demonstrate my understanding of IT concepts relevant to the role.
 
 **A – Action:**  
-I prepared answers, dressed professionally, and practiced using confident communication and body language.  
+I prepared by reviewing common ICT interview questions, practicing responses using the CAR method, and researching how to align my skills with the company’s needs. During the mock interview, I maintained eye contact, used professional body language, and spoke clearly about my technical experience, including projects in Java and SQL. After the interview, I received feedback that helped me identify my strengths (confidence, tone, and preparation) and areas for improvement (elaborating more on examples).
 
 **R – Result:**  
-The feedback helped me identify areas to improve, like being more concise and maintaining eye contact. It was an insightful experience that strengthened my interview confidence.
-
+The mock interview gave me valuable real-world practice in presenting myself professionally and handling interview questions effectively. I learned how to structure my answers better, manage nerves, and use communication strategies to show confidence. The experience has made me more prepared for actual ICT job interviews and motivated me to continue refining my communication and presentation skills.
 ---
 
 
