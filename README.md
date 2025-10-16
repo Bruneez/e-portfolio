@@ -303,6 +303,39 @@ I began by updating my **LinkedIn profile** — adding a professional photo, a c
 By applying these strategies, I built a stronger professional presence and gained confidence in my networking abilities. My LinkedIn profile now reflects who I am and where I’m heading in my ICT career. The quiz helped reinforce key networking principles and taught me how to avoid common mistakes such as being overly formal or impersonal. I’ve realized that networking isn’t just about making contacts — it’s about forming meaningful, long-term professional relationships. Moving forward, I plan to continue engaging with others in my field, learning from experienced professionals, and growing my visibility in the tech community.
 
 ---
+
+## 🏢 Workplace Etiquette  
+
+### 📎 Evidence  
+
+**🧾 Workplace Etiquette Quiz**  
+![Workplace Etiquette Quiz](./evidence/workplace-etiquette-quiz.png)  
+*Screenshot showing my completion of the Workplace Etiquette quiz. This demonstrates my understanding of professional behaviour, punctuality, confidentiality, and communication in a workplace environment.*  
+<br>
+
+**📘 Case Study Reflection**  
+![Workplace Scenario](./evidence/workplace-scenario.png)  
+*A short activity where I analysed real workplace scenarios about respect, teamwork, and professional communication.*  
+<br>
+
+---
+
+### 📝 Reflection – STAR Method  
+
+**S – Situation:**  
+During my Work Readiness training, I completed a module on **Workplace Etiquette** that focused on how to behave and communicate professionally in a real working environment. As someone preparing to enter the ICT field, I realized how important it is to not only have technical skills but also to understand professional conduct — such as teamwork, respect, and accountability. This activity, along with the **Workplace Etiquette quiz**, gave me insight into how to handle different workplace situations with maturity and professionalism, from managing time effectively to responding appropriately in challenging situations.
+
+**T – Task:**  
+My goal was to understand and apply proper workplace conduct — including time management, respectful communication, handling confidential information, and maintaining professionalism even under pressure. I needed to learn the dos and don’ts of a work setting, from email tone and punctuality to how to deal with conflicts and maintain a positive attitude.
+
+**A – Action:**  
+I studied different case studies and scenario-based examples that reflected common workplace challenges, such as how to respond to a rude email or how to manage personal calls during work hours. I also watched short training videos that explained appropriate workplace behaviour and the importance of body language and teamwork. While completing the quiz, I applied these lessons by choosing actions that reflected professionalism and emotional intelligence. 
+**R – Result:**  
+Through this module, I learned how professionalism extends beyond appearance — it’s about reliability, respect, and accountability. I now understand the importance of **confidentiality**, **punctuality**, and maintaining a positive attitude, especially when representing a company. The quiz reinforced these principles and showed me how to respond calmly and respectfully in any workplace situation. This experience has prepared me to enter the ICT field with confidence, professionalism, and a strong sense of workplace ethics.  
+
+---
+
+
 ## 🗺️  Closing Thoughts
 
 Creating this e-portfolio has been more than just an academic task it’s been a personal journey of discovery, growth, and direction. From uncovering my personality strengths to identifying career paths that truly excite me, each activity has helped me understand myself better as an aspiring ICT professional. I now feel more confident, focused, and ready to step into the working world with purpose. This portfolio reflects not only what I’ve done, but who I’m becoming and I’m excited for the path ahead.
