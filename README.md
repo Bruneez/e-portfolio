@@ -272,8 +272,8 @@ The mock interview gave me valuable real-world practice in presenting myself pro
 <br>
 
 **🏢 LinkedIn Activity / Connections**  
-![LinkedIn Connections](./evidence/linkedin-connections.png)  
-*Screenshot showing my engagement with ICT-related posts and connections with industry professionals.*  
+![LinkedIn Connections](./linkedin_connect.png)  
+*Screenshot showing my engagement with ICT-related company.*  
 <br>
 
 **📜 LinkedIn Learning Certificate**  
