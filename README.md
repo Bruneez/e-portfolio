@@ -291,7 +291,7 @@ The mock interview gave me valuable real-world practice in presenting myself pro
 ### 📝 Reflection – STAR Method  
 
 **S – Situation:**  
-As part of my Work Readiness module, I was introduced to the concept of **professional networking** and how it plays an important role in career development. I created and refined my **LinkedIn profile** to start connecting with professionals in the ICT industry, explore career paths, and learn from others’ experiences. I also completed a **LinkedIn Learning course** to help me understand how to present myself professionally online and build meaningful connections.
+The Professional Networking activity helped me understand how important it is to create a positive digital footprint as I prepare to enter the ICT industry. Through LinkedIn and professional communication exercises, I learned how to build connections, engage with others in my field, and present my skills confidently to potential employers.
 
 **T – Task:**  
 My main goal was to build a strong and credible professional identity that reflects my skills, academic background, and career interests. I needed to make sure that my profile communicated professionalism while showcasing who I am as an aspiring ICT professional. I also wanted to learn how to communicate effectively with potential employers and mentors through online platforms and professional emails.
