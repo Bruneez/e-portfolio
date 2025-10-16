@@ -282,7 +282,7 @@ The mock interview gave me valuable real-world practice in presenting myself pro
 <br>
 
 **✉️ Professional Email Example**  
-![Networking Email Example](./evidence/networking-email.png)  
+![Networking Email Example](./Business Comminication evidence/networking-email.png)  
 *Example of a professional email I wrote to connect with an ICT company to inquire about internship opportunities.*  
 <br>
 
