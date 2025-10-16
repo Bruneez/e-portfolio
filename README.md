@@ -277,7 +277,7 @@ The mock interview gave me valuable real-world practice in presenting myself pro
 <br>
 
 **📜 LinkedIn Learning Certificate**  
-[View LinkedIn Certificate – Building Your Professional Brand Online (PDF)](./evidence/linkedin-networking-certificate.pdf)  
+[View LinkedIn Certificate – Building Your Professional Brand Online (PDF)](./Creating_Your_Personal_Brand.pdf)  
 *Certificate showing completion of LinkedIn Learning course on building a professional online presence and networking effectively.*  
 <br>
 
