@@ -272,7 +272,7 @@ The mock interview gave me valuable real-world practice in presenting myself pro
 <br>
 
 **🏢 LinkedIn Activity / Connections**  
-![LinkedIn Connections](./linkedin_connect.png)  
+![LinkedIn Connections](./Linkedin_connect.png)  
 *Screenshot showing my engagement with ICT-related company.*  
 <br>
 
