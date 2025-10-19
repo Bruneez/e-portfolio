@@ -186,7 +186,7 @@ Through this process, I strengthened my ability to communicate professionally an
 <br>
 
 **📄 Interview Practice Q&A**  
-[View My Interview Practice Q&A (PDF)](./Interview_Practice_Qestions.pdf)  
+[View My Interview Practice Q&A (PDF)](./Interview_Practice_Questions.pdf)  
 *A short document where I practiced answering common interview questions using the CAR (Context, Action, Result) method.*  
 <br>
 
@@ -240,10 +240,10 @@ Bruneez demonstrated strong preparation and professionalism throughout the mock 
 
 
 ### ✅ Overall Rating  
-⭐ **Excellent (8.5 / 10)** – Well-prepared, professional, and confident. Shows readiness for internship interviews.  
+⭐ **Excellent (8.0 / 10)** – Well-prepared, professional, and confident. Shows readiness for internship interviews.  
 
-**Interviewer:** Work Readiness Facilitator  
-**Signature:** __________________________  
+**Interviewer:** Ethan Le Roux 
+**Signature:** E.leRoux  
 
 
 
