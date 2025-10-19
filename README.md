@@ -272,8 +272,8 @@ The mock interview gave me valuable real-world practice in presenting myself pro
 <br>
 
 **🏢 LinkedIn Activity / Connections**  
-![LinkedIn Connections](./Linkedin_connect.png)  
-*Screenshot showing my engagement with ICT-related company.*  
+![LinkedIn Connections](./Business%20Communication%20evidence/Professional_networking.png)  
+*Screenshot showing my a quiz a completed demonstrating my understanding of professional networking.*  
 <br>
 
 **📜 LinkedIn Learning Certificate**  
@@ -282,7 +282,7 @@ The mock interview gave me valuable real-world practice in presenting myself pro
 <br>
 
 **✉️ Professional Email Example**  
-![Networking Email Example](./Business Comminication evidence/networking-email.jpg)  
+![Networking Email Example](./Business%20Communication%20evidence/networking-email.png)  
 *Example of a professional email I wrote to connect with an ICT company to inquire about internship opportunities.*  
 <br>
 
