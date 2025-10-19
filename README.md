@@ -314,7 +314,7 @@ By applying these strategies, I built a stronger professional presence and gaine
 <br>
 
 **📘 Case Study Reflection**  
-![Workplace Scenario](./evidence/workplace-scenario.png)  
+![Workplace Scenario](./workplace_scenarios.png)  
 *A short activity where I analysed real workplace scenarios about respect, teamwork, and professional communication.*  
 <br>
 
