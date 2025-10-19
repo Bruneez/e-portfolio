@@ -281,8 +281,8 @@ The mock interview gave me valuable real-world practice in presenting myself pro
 *Certificate showing completion of LinkedIn Learning course on building a professional online presence and networking effectively.*  
 <br>
 
-**✉️ Professional Email Example**  
-![Networking Email Example](./Business%20Communication%20evidence/networking-email.jpg)  
+**✉️ Professional Email**  
+![Networking Email Example](./networking-email.pdf)  
 *Example of a professional email I wrote to connect with an ICT company to inquire about internship opportunities.*  
 <br>
 
