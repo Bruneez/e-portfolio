@@ -338,5 +338,10 @@ Through this module, I learned how professionalism extends beyond appearance —
 
 ## 🗺️  Closing Thoughts
 
-Creating this e-portfolio has been more than just an academic task it’s been a personal journey of discovery, growth, and direction. From uncovering my personality strengths to identifying career paths that truly excite me, each activity has helped me understand myself better as an aspiring ICT professional. I now feel more confident, focused, and ready to step into the working world with purpose. This portfolio reflects not only what I’ve done, but who I’m becoming and I’m excited for the path ahead.
+## 🌟 Overall Reflection – Communication & Work Readiness Journey  
+
+Completing the activities in this Work Readiness section — from **Business Communication** to **Interview Skills**, **Professional Networking**, and **Workplace Etiquette** — has helped me grow both personally and professionally. I’ve learned that success in the ICT field depends not only on technical knowledge but also on how effectively I communicate, present myself, and build relationships.  
+
+Through writing professional emails and cover letters, I mastered the **7 Cs of communication**, while the **mock interview** and **LinkedIn networking** activities built my confidence and strengthened my professional presence
+
 
