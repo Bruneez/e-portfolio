@@ -267,7 +267,7 @@ The mock interview gave me valuable real-world practice in presenting myself pro
 ### 📎 Evidence  
 
 **👤 LinkedIn Profile**  
-![LinkedIn Profile Screenshot](./linkedin_profile.png)  
+![LinkedIn Profile Screenshot](./linkedIn_profile.png)  
 *Screenshot of my LinkedIn profile showing my professional headline, “About” section, and growing network of ICT professionals.*  
 <br>
 
