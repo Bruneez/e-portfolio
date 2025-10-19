@@ -13,19 +13,20 @@ I’m Bruneez Apollis, a curious and driven final-year ICT student specializing 
 ---
 ## 🌟 Table of Contents
 1. [Career Counselling](#-career-counselling)
-2. [Pesonality Assessment](#-personality-assessment)
-3. [Create a CV](#-create-a-cv)
-4. [CV Submission](#-cv-submission)
-5. [Business Communication](#-business-communication)
-6. [Interview Skills](#-interview-skills)
-7. [Mock Interview](#-mock-interview)
-8. [Professional Networking](#-professional-networking)
-9. [Workplace Etiquette](#-workplace-etiquette)
-10. [Final Reflection](#-final-reflection)
+2. [Skills and Interest](#-skills-and-Interest)
+3. [Pesonality Assessment](#-personality-assessment)
+4. [Create a CV](#-create-a-cv)
+5. [CV Submission](#-cv-submission)
+6. [Business Communication](#-business-communication)
+7. [Interview Skills](#-interview-skills)
+8. [Mock Interview](#-mock-interview)
+9. [Professional Networking](#-professional-networking)
+10. [Workplace Etiquette](#-workplace-etiquette)
+11. [Final Reflection](#-final-reflection)
 
 ---
 
-## 📘 Career Counselling
+## 📘 1.Career Counselling
 
 ### 📎 Evidence
 ![Career development](https://github.com/user-attachments/assets/b7f95d43-e238-4ce5-b73d-1ae458a902f8)
@@ -43,7 +44,7 @@ By the end of the counselling process, I had a clear shortlist of roles—namely
 
 ---
 
-## 🧠 Skills and Interests
+## 🧠 2.Skills and Interests
 
 ### 📎 Evidence  
 ![Career development](https://github.com/user-attachments/assets/f0f1019c-af13-47c4-b36b-f0f94a6a1841)
@@ -58,7 +59,7 @@ As a final-year Application Development student at Cape Peninsula University of 
 This reflection helped me realize that I am most passionate about solving problems using code, understanding how systems work, and working with data. My interest in machine learning and databases continues to grow, and I am now focused on developing those skills further.I feel more confident in the direction I want to take and more intentional about the projects I pursue.
 
 ---
-## 🧬 Personality Assessment
+## 🧬 3.Personality Assessment
 
 ### 📎 Evidence  
 ![Pesonality Assesment 1](https://github.com/user-attachments/assets/52816a8c-aa2d-4fe8-9886-0735e6be834c)
@@ -82,7 +83,7 @@ It also helped me accept that it’s okay to prefer solo work when I’m focused
 
 ---
 
-## 📄 Create a CV
+## 📄 4.Create a CV
 
 ### 📎 Evidence  
 ![Create a CV](https://github.com/user-attachments/assets/fef33834-c768-4b98-9405-081f2e3692c4)
@@ -110,7 +111,7 @@ This task helped me:
 Moving forward, I’ll **update my CV quarterly** and customize it for specific job applications.
 ---
 
-## 📤 CV Submission
+## 📤 5.CV Submission
 
 ### 📎 Evidence  
 [📄 View/download my CV (PDF)](./My_CV.pdf)
@@ -135,7 +136,7 @@ I began by identifying key sections such as Education, Skills, Projects, and Ach
 Updating my CV helped me recognize how much I’ve developed since starting my diploma. I now have a clearer picture of the kind of roles I want to pursue such as software developer, backend developer, or data-focused roles like machine learning assistant or database administrator. The final CV presents a well-rounded image of me: technically skilled, eager to learn, and ready to contribute meaningfully in the tech industry. It also gave me more confidence in applying for internships, jobs, or showcasing myself online via LinkedIn or my portfolio.
 
 ---
-## 🗣️ Business Communication  
+## 🗣️ 6.Business Communication  
 
 ### 📎 Evidence  
 
@@ -171,7 +172,7 @@ Through this process, I strengthened my ability to communicate professionally an
 
 ---
 
-## 💬 Interview Skills  
+## 💬 7.Interview Skills  
 
 ### 📎 Evidence  
 
@@ -207,7 +208,7 @@ Through this process, I gained a clearer understanding of how to approach interv
 
 ---
 
-## 🎥 Mock Interview  
+## 🎥 8.Mock Interview  
 
 ### 📎 Evidence  
 
@@ -262,7 +263,7 @@ I prepared by reviewing common ICT interview questions, practicing responses usi
 The mock interview gave me valuable real-world practice in presenting myself professionally and handling interview questions effectively. I learned how to structure my answers better, manage nerves, and use communication strategies to show confidence. The experience has made me more prepared for actual ICT job interviews and motivated me to continue refining my communication and presentation skills.  
 
 ---
-## 🌐 Professional Networking  
+## 🌐 9.Professional Networking  
 
 ### 📎 Evidence  
 
@@ -304,7 +305,7 @@ By applying these strategies, I built a stronger professional presence and gaine
 
 ---
 
-## 🏢 Workplace Etiquette  
+## 🏢 10.Workplace Etiquette  
 
 ### 📎 Evidence  
 
@@ -336,7 +337,7 @@ Through this module, I learned how professionalism extends beyond appearance —
 ---
 
 
-## 🗺️  Closing Thoughts
+## 🗺️  11.Closing Thoughts
 
 ## 🌟 Overall Reflection – Communication & Work Readiness Journey  
 
