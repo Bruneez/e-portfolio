@@ -176,12 +176,12 @@ Through this process, I strengthened my ability to communicate professionally an
 ### 📎 Evidence  
 
 **🧠 Interview Skills Quiz**  
-![Interview Skills Quiz](./Business Communication evidence/interview_skills_quiz.png)  
+![Interview Skills Quiz](./Business%20Communication%20evidence/interview_skills_quiz.png)  
 *Screenshot showing my completion of the Interview Skills quiz.*  
 <br>
 
 **📜 LinkedIn Learning Certificate**  
-[View LinkedIn Course Certificate – Mastering Common Interview Questions (PDF)](./LinkeIn_Cerificate.pdf)  
+[View LinkedIn Course Certificate – Mastering Common Interview Questions (PDF)](./LinkeIn_Certificate.pdf)  
 *Certificate of completion for LinkedIn Learning’s “Mastering Common Interview Questions” course.*  
 <br>
 
