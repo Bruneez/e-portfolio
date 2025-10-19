@@ -181,7 +181,7 @@ Through this process, I strengthened my ability to communicate professionally an
 <br>
 
 **📜 LinkedIn Learning Certificate**  
-[View LinkedIn Course Certificate – Mastering Common Interview Questions (PDF)](./LinkedIn_Cerificate.pdf)  
+[View LinkedIn Course Certificate – Mastering Common Interview Questions (PDF)](./LinkeIn_Cerificate.pdf)  
 *Certificate of completion for LinkedIn Learning’s “Mastering Common Interview Questions” course.*  
 <br>
 
