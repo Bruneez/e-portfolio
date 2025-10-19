@@ -243,7 +243,8 @@ Bruneez demonstrated strong preparation and professionalism throughout the mock 
 ### ✅ Overall Rating  
 ⭐ **Excellent (8.0 / 10)** – Well-prepared, professional, and confident. Shows readiness for internship interviews.  
 
-**Interviewer:** Ethan Le Roux 
+**Interviewer:** Ethan Le Roux
+<br>
 **Signature:** E.leRoux  
 
 
