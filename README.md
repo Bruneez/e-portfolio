@@ -309,12 +309,12 @@ By applying these strategies, I built a stronger professional presence and gaine
 ### 📎 Evidence  
 
 **🧾 Workplace Etiquette Quiz**  
-![Workplace Etiquette Quiz](./evidence/workplace-etiquette-quiz.png)  
+![Workplace Etiquette Quiz](././Business%20Communication%20evidence/Workplace_ettiquette.png)  
 *Screenshot showing my completion of the Workplace Etiquette quiz. This demonstrates my understanding of professional behaviour, punctuality, confidentiality, and communication in a workplace environment.*  
 <br>
 
 **📘 Case Study Reflection**  
-![Workplace Scenario](./workplace_scenarios.png)  
+![Workplace Scenario](./workplace_scenarios.pdf)  
 *A short activity where I analysed real workplace scenarios about respect, teamwork, and professional communication.*  
 <br>
 
