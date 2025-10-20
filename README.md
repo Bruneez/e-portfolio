@@ -53,7 +53,7 @@ By the end of the counselling process, I had a clear shortlist of roles—namely
 
 ### 💡Reflection
   
-As a final-year Application Development student at Cape Peninsula University of Technology, I’ve gained a range of both technical and soft skills.Through this process, I identified strong hard skills in programming (Java, JavaScript, Python, Kotlin), Android app development, working with databases and SQL, and using tools like Anaconda and IntelliJ. I also recognized important soft skills I’ve developed, such as teamwork, time management, clear communication, problem-solving, attention to detail, and adaptability—especially when working on group projects or troubleshooting code.
+As a final-year Application Development student at Cape Peninsula University of Technology, I’ve gained a range of both technical and soft skills.Through this process, I identified strong hard skills in programming (Java, JavaScript, Python, Kotlin), Android app development, working with databases and SQL, and using tools like Anaconda and IntelliJ. I also recognized important soft skills I’ve developed, such as teamwork, time management, clear communication, problem-solving, attention to detail, and adaptability especially when working on group projects or troubleshooting code.
 
  Over time, I’ve developed a strong interest in machine learning and working with databases, particularly using SQL. The task was to reflect on my skills and interests to understand how they align with my personal and professional goals. This involved identifying the areas I excel in, what I enjoy doing most, and how these can shape my future career.I looked at my academic projects, such as building applications using Java and Kotlin, and managing data through SQL. I also explored machine learning out of personal interest, taking time to understand how data is used to create intelligent systems. I identified transferable skills like problem-solving, attention to detail, communication, and teamwork, which I’ve developed through both individual and group tasks.
  
@@ -169,7 +169,7 @@ In preparing my email and cover letter, my goal was to demonstrate professionali
 I began by researching Sanlam’s company values and the qualities they look for in interns. I then drafted my cover letter carefully, ensuring that the tone remained formal and respectful. I reviewed it multiple times to improve clarity and flow, removed unnecessary words to stay concise, and double-checked grammar and structure to keep it correct. I also ensured that the letter was complete by including all relevant information — my academic background, technical skills (such as Java, SQL, and app development), and my motivation for applying. Lastly, I maintained a courteous tone, showing appreciation for the reader’s time and consideration.  
 
 **R – Result:**  
-Through this process, I strengthened my ability to communicate professionally and with purpose. I learned how applying the **7 Cs of Communication** makes a message more impactful and credible. Writing the cover letter taught me to express my thoughts in a structured, confident way that leaves a positive impression. I now understand that effective business communication is not only about what you say but *how* you say it — and that clarity, tone, and respect play a major role in building professional relationships.  
+Through this process, I strengthened my ability to communicate professionally and with purpose. I learned how applying the **7 Cs of Communication** makes a message more impactful and credible. Writing the cover letter taught me to express my thoughts in a structured, confident way that leaves a positive impression. I now understand that effective business communication is not only about what you say but *how* you say it and that clarity, tone, and respect play a major role in building professional relationships.  
 
 ---
 
@@ -205,7 +205,7 @@ The goal was to learn how to handle interview situations confidently — from an
 I started by completing the LinkedIn course, where I learned how to prepare for interviews, research company backgrounds, and respond using strategies that highlight my skills and personality. I practiced tailoring my answers to fit my career goals in ICT and reviewed examples of how to express both technical knowledge and soft skills effectively. Then, in the **Interview Skills quiz**, I tested my understanding of these concepts — including how to use formal communication, demonstrate self-awareness, and maintain professionalism under pressure.  
 
 **R – Result:**  
-Through this process, I gained a clearer understanding of how to approach interviews with confidence and purpose. The quiz helped me identify gaps in my knowledge and reinforced key interview techniques such as the CAR method and the importance of preparation. The LinkedIn course improved my awareness of non-verbal communication, active listening, and the power of first impressions. I now feel better equipped to speak about my experience, skills, and goals in a professional and structured way — which will be invaluable when I start applying for internships and entry-level ICT roles.  
+Through this process, I gained a clearer understanding of how to approach interviews with confidence and purpose. The quiz helped me identify gaps in my knowledge and reinforced key interview techniques such as the CAR method and the importance of preparation. The LinkedIn course improved my awareness of non-verbal communication, active listening, and the power of first impressions. I now feel better equipped to speak about my experience, skills, and goals in a professional and structured way  which will be invaluable when I start applying for internships and entry-level ICT roles.  
 
 ---
 
@@ -300,7 +300,7 @@ The Professional Networking activity helped me understand how important it is to
 My main goal was to establish a credible online presence that accurately represents my academic background, technical skills, and personal brand as an aspiring ICT professional. I needed to ensure my communication was professional, polite, and aligned with workplace expectations. This also included learning to write effective professional emails and understanding how to approach companies like **AWS** or **Sanlam** for internship opportunities.
 
 **A – Action:**  
-I began by updating my **LinkedIn profile** — adding a professional photo, a compelling headline, and a summary that reflected my passion for technology and problem-solving. I also listed my skills in **Java**, **SQL**, and **app development**, and connected with industry professionals, classmates, and ICT organizations. I practiced writing professional networking emails that followed the **7 Cs of Communication** — ensuring that every message I sent was **clear, concise, complete, courteous, correct, concrete, and coherent**. Additionally, I completed a **LinkedIn Learning course on Building Your Professional Brand**, which guided me in presenting myself authentically while maintaining professionalism.  
+I began by updating my **LinkedIn profile** — adding a professional photo, a compelling headline, and a summary that reflected my passion for technology and problem-solving. I also listed my skills in **Java**, **SQL**, and **app development**, and connected with industry professionals, classmates, and ICT organizations. I practiced writing professional networking emails that followed the **7 Cs of Communication** ensuring that every message I sent was **clear, concise, complete, courteous, correct, concrete, and coherent**. Additionally, I completed a **LinkedIn Learning course on Building Your Professional Brand**, which guided me in presenting myself authentically while maintaining professionalism.  
 
 **R – Result:**  
 By applying these strategies, I built a stronger professional presence and gained confidence in my networking abilities. My LinkedIn profile now reflects who I am and where I’m heading in my ICT career. The quiz helped reinforce key networking principles and taught me how to avoid common mistakes such as being overly formal or impersonal. I’ve realized that networking isn’t just about making contacts — it’s about forming meaningful, long-term professional relationships. Moving forward, I plan to continue engaging with others in my field, learning from experienced professionals, and growing my visibility in the tech community.
@@ -333,18 +333,23 @@ My goal was to understand and apply proper workplace conduct  including time man
 
 **A – Action:**  
 I studied different case studies and scenario-based examples that reflected common workplace challenges, such as how to respond to a rude email or how to manage personal calls during work hours. I also watched short training videos that explained appropriate workplace behaviour and the importance of body language and teamwork. While completing the quiz, I applied these lessons by choosing actions that reflected professionalism and emotional intelligence. 
+
+
 **R – Result:**  
 Through this module, I learned how professionalism extends beyond appearance  it’s about reliability, respect, and accountability. I now understand the importance of **confidentiality**, **punctuality**, and maintaining a positive attitude, especially when representing a company. The quiz reinforced these principles and showed me how to respond calmly and respectfully in any workplace situation. This experience has prepared me to enter the ICT field with confidence, professionalism, and a strong sense of workplace ethics.  
 
 ---
 
 
-## 🗺️  11.Closing Thoughts
+## 🗺️ 11. Closing Thoughts  
 
-## 🌟 Overall Reflection – Communication & Work Readiness Journey  
+As I reach the end of this journey, looking back at everything I’ve completed — from **Career Counselling** to **Workplace Etiquette** — I can see how each activity has shaped both my personal growth and professional mindset. This e-portfolio represents more than just a collection of tasks; it’s a reflection of how I’ve discovered my strengths, refined my goals, and built the confidence to step into the ICT industry with purpose.  
 
-Completing the activities in this Work Readiness section  from **Business Communication** to **Interview Skills**, **Professional Networking**, and **Workplace Etiquette**  has helped me grow both personally and professionally. I’ve learned that success in the ICT field depends not only on technical knowledge but also on how effectively I communicate, present myself, and build relationships.  
+Throughout this process, I’ve learned that success goes beyond technical ability. It’s about how I **communicate**, **collaborate**, and **present myself** in professional spaces. Developing my CV and cover letter taught me to express my skills clearly, while **interview practice** and **networking** helped me grow more confident in sharing my story. The lessons from **workplace etiquette** reminded me that professionalism is built on respect, accountability, and a positive attitude.  
 
-Through writing professional emails and cover letters, I mastered the **7 Cs of communication**, while the **mock interview** and **LinkedIn networking** activities built my confidence and strengthened my professional presence
+Every step — from discovering who I am to preparing for where I’m going — has helped me shape a clearer vision for my career in technology. I now feel ready to apply what I’ve learned, continue improving, and contribute meaningfully to the ICT world.  
+
+> “Growth begins the moment you decide to learn from every experience — and that’s exactly what this journey has been.” ✨
+
 
 
