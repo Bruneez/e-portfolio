@@ -1,7 +1,7 @@
 # 👩🏽‍💻 Bruneez’s E-Portfolio  
 
 Welcome to my digital journey!  
-This e-portfolio captures how I’ve grown — not just as a student, but as an emerging ICT professional discovering where passion meets purpose. Through reflective tasks like **career counselling**, **skills and personality assessments**, and **CV development**, I’ve learned more about who I am, what drives me, and how my strengths connect to my future in technology.  
+This e-portfolio captures how I’ve grown  not just as a student, but as an emerging ICT professional discovering where passion meets purpose. Through reflective tasks like **career counselling**, **skills and personality assessments**, and **CV development**, I’ve learned more about who I am, what drives me, and how my strengths connect to my future in technology.  
 
 Each section of this portfolio represents a step in that journey  from understanding myself better to preparing for the professional world. It’s a space where learning meets experience, and where curiosity continues to shape my path forward.  
 
@@ -70,7 +70,7 @@ This reflection helped me realize that I am most passionate about solving proble
 
 ### 🔍 Reflection 
   
-As a final-year ICT student planning my next steps, I took part in a **Personality Assessment** module based on the Holland Code (RIASEC) model. I’ve always known I enjoy tech, but this was my first time intentionally connecting my personality to real career options in the field. I wanted to understand not just what I’m good at, but *why certain tasks energize me more than others. The task involved exploring six personality types — Realistic, Investigative, Artistic, Social, Enterprising, and Conventional — and identifying which ones best describe me. The goal was to reflect on how these traits influence my career preferences, learning style, and how I function in a team or work setting.
+As a final-year ICT student planning my next steps, I took part in a **Personality Assessment** module based on the Holland Code (RIASEC) model. I’ve always known I enjoy tech, but this was my first time intentionally connecting my personality to real career options in the field. I wanted to understand not just what I’m good at, but *why certain tasks energize me more than others. The task involved exploring six personality types  Realistic, Investigative, Artistic, Social, Enterprising, and Conventional  and identifying which ones best describe me. The goal was to reflect on how these traits influence my career preferences, learning style, and how I function in a team or work setting.
 
 I took time to complete the assessment honestly, answering questions about what I enjoy, how I solve problems, and the kinds of work environments I prefer. My results highlighted both **Investigative** and **Conventional** traits.  
 To go deeper, I:
@@ -199,7 +199,7 @@ Through this process, I strengthened my ability to communicate professionally an
 I focused on developing my interview skills through a blend of theory and practice that helped me grow both personally and professionally. Completing the LinkedIn Learning course on mastering common interview questions taught me how to approach different question types with confidence and structure my answers effectively. I also participated in an Interview Skills quiz that tested my understanding of communication techniques and professional etiquette. These experiences allowed me to refine how I present myself, express my strengths, and engage confidently during real interview situations. 
 
 **T – Task:**  
-The goal was to learn how to handle interview situations confidently — from answering common questions like “Tell me about yourself” to managing difficult ones such as “What are your weaknesses?”. I needed to understand how to use structured methods such as the **CAR (Context, Action, Result)** approach to form strong, focused answers.  
+The goal was to learn how to handle interview situations confidently  from answering common questions like “Tell me about yourself” to managing difficult ones such as “What are your weaknesses?”. I needed to understand how to use structured methods such as the **CAR (Context, Action, Result)** approach to form strong, focused answers.  
 
 **A – Action:**  
 I started by completing the LinkedIn course, where I learned how to prepare for interviews, research company backgrounds, and respond using strategies that highlight my skills and personality. I practiced tailoring my answers to fit my career goals in ICT and reviewed examples of how to express both technical knowledge and soft skills effectively. Then, in the **Interview Skills quiz**, I tested my understanding of these concepts — including how to use formal communication, demonstrate self-awareness, and maintain professionalism under pressure.  
