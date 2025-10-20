@@ -1,14 +1,15 @@
-# 👩🏽‍💻 Bruneez's E-Portfolio
+# 👩🏽‍💻 Bruneez’s E-Portfolio  
 
-Welcome to my e-portfolio!
-This space is all about my journey of figuring out who I am, what I’m good at, and where I want to go in life.
-Over the past few weeks, I’ve explored my **skills**, **interests**, and **personality** through different tasks like career counselling, self-assessments, and even building my own **CV**. These experiences really helped me reflect on my strengths and gave me a better idea of the kind of career path that fits me.
+Welcome to my digital journey!  
+This e-portfolio captures how I’ve grown — not just as a student, but as an emerging ICT professional discovering where passion meets purpose. Through reflective tasks like **career counselling**, **skills and personality assessments**, and **CV development**, I’ve learned more about who I am, what drives me, and how my strengths connect to my future in technology.  
 
+Each section of this portfolio represents a step in that journey — from understanding myself better to preparing for the professional world. It’s a space where learning meets experience, and where curiosity continues to shape my path forward.  
 
+## 🎓 About Me  
 
-## 🎓 About Me
+I’m **Bruneez Apollis**, a final-year ICT student specializing in **Application Development** at the **Cape Peninsula University of Technology**. I’m passionate about using technology to solve real-world problems and building solutions that make life easier and smarter. I love exploring how systems work, writing clean and functional code, and continuously learning new tools that push my creativity further.  
 
-I’m Bruneez Apollis, a curious and driven final-year ICT student specializing in Application Development at Cape Peninsula University of Technology. I’m passionate about using technology to solve real-world problems, and I enjoy building creative solutions through code. Whether I’m developing an app or exploring new tech trends, I’m always looking for ways to grow, create, and make a meaningful impact.
+For me, technology isn’t just a career — it’s a way to innovate, connect, and create meaningful impact.  
 
 ---
 ## 🌟 Table of Contents
