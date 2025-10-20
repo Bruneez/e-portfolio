@@ -195,7 +195,7 @@ Through this process, I strengthened my ability to communicate professionally an
 ### 📝 Reflection – STAR Method  
 
 **S – Situation:**  
-As part of my Work Readiness module, I focused on improving my interview skills through both practical and theoretical activities. I completed a **LinkedIn Learning course on mastering common interview questions**, and I also participated in an **Interview Skills quiz** to test my understanding of effective interview communication. These activities were designed to help me gain confidence in how to present myself professionally and communicate my strengths clearly during real interviews.  
+I focused on developing my interview skills through a blend of theory and practice that helped me grow both personally and professionally. Completing the LinkedIn Learning course on mastering common interview questions taught me how to approach different question types with confidence and structure my answers effectively. I also participated in an Interview Skills quiz that tested my understanding of communication techniques and professional etiquette. These experiences allowed me to refine how I present myself, express my strengths, and engage confidently during real interview situations. 
 
 **T – Task:**  
 The goal was to learn how to handle interview situations confidently — from answering common questions like “Tell me about yourself” to managing difficult ones such as “What are your weaknesses?”. I needed to understand how to use structured methods such as the **CAR (Context, Action, Result)** approach to form strong, focused answers.  
