@@ -3,13 +3,13 @@
 Welcome to my digital journey!  
 This e-portfolio captures how I’ve grown — not just as a student, but as an emerging ICT professional discovering where passion meets purpose. Through reflective tasks like **career counselling**, **skills and personality assessments**, and **CV development**, I’ve learned more about who I am, what drives me, and how my strengths connect to my future in technology.  
 
-Each section of this portfolio represents a step in that journey — from understanding myself better to preparing for the professional world. It’s a space where learning meets experience, and where curiosity continues to shape my path forward.  
+Each section of this portfolio represents a step in that journey  from understanding myself better to preparing for the professional world. It’s a space where learning meets experience, and where curiosity continues to shape my path forward.  
 
 ## 🎓 About Me  
 
 I’m **Bruneez Apollis**, a final-year ICT student specializing in **Application Development** at the **Cape Peninsula University of Technology**. I’m passionate about using technology to solve real-world problems and building solutions that make life easier and smarter. I love exploring how systems work, writing clean and functional code, and continuously learning new tools that push my creativity further.  
 
-For me, technology isn’t just a career — it’s a way to innovate, connect, and create meaningful impact.  
+For me, technology isn’t just a career it’s a way to innovate, connect, and create meaningful impact.  
 
 ---
 ## 🌟 Table of Contents
@@ -75,11 +75,11 @@ As a final-year ICT student planning my next steps, I took part in a **Personali
 I took time to complete the assessment honestly, answering questions about what I enjoy, how I solve problems, and the kinds of work environments I prefer. My results highlighted both **Investigative** and **Conventional** traits.  
 To go deeper, I:
 - Revisited my academic and personal projects (e.g., building a weather app and writing SQL queries) to see how these traits showed up in practice.  
-- Compared personality descriptions with my experiences — realizing that my love for structured data, step-by-step problem-solving, and deep analysis clearly align with these two types.  
+- Compared personality descriptions with my experiences realizing that my love for structured data, step-by-step problem-solving, and deep analysis clearly align with these two types.  
 - Reflected on how I thrive in organized, logic-driven environments where I can work independently but also support broader team objectives.
 
 
-The assessment gave me clarity: I’m naturally drawn to roles that require precision, problem-solving, and structure — like data analysis, backend development, or even machine learning engineering.  
+The assessment gave me clarity: I’m naturally drawn to roles that require precision, problem-solving, and structure like data analysis, backend development, or even machine learning engineering.  
 It also helped me accept that it’s okay to prefer solo work when I’m focused, and that I bring real value through consistency, analytical thinking, and systems-oriented work. This reflection is now shaping how I tailor my CV, choose electives, and even who I look to for mentorship. It reminded me that success comes not just from skills, but from aligning with your core personality.
 
 ---
@@ -326,15 +326,15 @@ By applying these strategies, I built a stronger professional presence and gaine
 ### 📝 Reflection – STAR Method  
 
 **S – Situation:**  
-During my Work Readiness training, I completed a module on **Workplace Etiquette** that focused on how to behave and communicate professionally in a real working environment. As someone preparing to enter the ICT field, I realized how important it is to not only have technical skills but also to understand professional conduct — such as teamwork, respect, and accountability. This activity, along with the **Workplace Etiquette quiz**, gave me insight into how to handle different workplace situations with maturity and professionalism, from managing time effectively to responding appropriately in challenging situations.
+During my Work Readiness training, I completed a module on **Workplace Etiquette** that focused on how to behave and communicate professionally in a real working environment. As someone preparing to enter the ICT field, I realized how important it is to not only have technical skills but also to understand professional conduct such as teamwork, respect, and accountability. This activity, along with the **Workplace Etiquette quiz**, gave me insight into how to handle different workplace situations with maturity and professionalism, from managing time effectively to responding appropriately in challenging situations.
 
 **T – Task:**  
-My goal was to understand and apply proper workplace conduct — including time management, respectful communication, handling confidential information, and maintaining professionalism even under pressure. I needed to learn the dos and don’ts of a work setting, from email tone and punctuality to how to deal with conflicts and maintain a positive attitude.
+My goal was to understand and apply proper workplace conduct  including time management, respectful communication, handling confidential information, and maintaining professionalism even under pressure. I needed to learn the dos and don’ts of a work setting, from email tone and punctuality to how to deal with conflicts and maintain a positive attitude.
 
 **A – Action:**  
 I studied different case studies and scenario-based examples that reflected common workplace challenges, such as how to respond to a rude email or how to manage personal calls during work hours. I also watched short training videos that explained appropriate workplace behaviour and the importance of body language and teamwork. While completing the quiz, I applied these lessons by choosing actions that reflected professionalism and emotional intelligence. 
 **R – Result:**  
-Through this module, I learned how professionalism extends beyond appearance — it’s about reliability, respect, and accountability. I now understand the importance of **confidentiality**, **punctuality**, and maintaining a positive attitude, especially when representing a company. The quiz reinforced these principles and showed me how to respond calmly and respectfully in any workplace situation. This experience has prepared me to enter the ICT field with confidence, professionalism, and a strong sense of workplace ethics.  
+Through this module, I learned how professionalism extends beyond appearance  it’s about reliability, respect, and accountability. I now understand the importance of **confidentiality**, **punctuality**, and maintaining a positive attitude, especially when representing a company. The quiz reinforced these principles and showed me how to respond calmly and respectfully in any workplace situation. This experience has prepared me to enter the ICT field with confidence, professionalism, and a strong sense of workplace ethics.  
 
 ---
 
@@ -343,7 +343,7 @@ Through this module, I learned how professionalism extends beyond appearance —
 
 ## 🌟 Overall Reflection – Communication & Work Readiness Journey  
 
-Completing the activities in this Work Readiness section — from **Business Communication** to **Interview Skills**, **Professional Networking**, and **Workplace Etiquette** — has helped me grow both personally and professionally. I’ve learned that success in the ICT field depends not only on technical knowledge but also on how effectively I communicate, present myself, and build relationships.  
+Completing the activities in this Work Readiness section  from **Business Communication** to **Interview Skills**, **Professional Networking**, and **Workplace Etiquette**  has helped me grow both personally and professionally. I’ve learned that success in the ICT field depends not only on technical knowledge but also on how effectively I communicate, present myself, and build relationships.  
 
 Through writing professional emails and cover letters, I mastered the **7 Cs of communication**, while the **mock interview** and **LinkedIn networking** activities built my confidence and strengthened my professional presence
 
