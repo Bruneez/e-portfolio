@@ -343,11 +343,11 @@ Through this module, I learned how professionalism extends beyond appearance  it
 
 ## 🗺️ 11. Closing Thoughts  
 
-As I reach the end of this journey, looking back at everything I’ve completed — from **Career Counselling** to **Workplace Etiquette** — I can see how each activity has shaped both my personal growth and professional mindset. This e-portfolio represents more than just a collection of tasks; it’s a reflection of how I’ve discovered my strengths, refined my goals, and built the confidence to step into the ICT industry with purpose.  
+As I reach the end of this journey, looking back at everything I’ve completed from **Career Counselling** to **Workplace Etiquette**  I can see how each activity has shaped both my personal growth and professional mindset. This e-portfolio represents more than just a collection of tasks; it’s a reflection of how I’ve discovered my strengths, refined my goals, and built the confidence to step into the ICT industry with purpose.  
 
 Throughout this process, I’ve learned that success goes beyond technical ability. It’s about how I **communicate**, **collaborate**, and **present myself** in professional spaces. Developing my CV and cover letter taught me to express my skills clearly, while **interview practice** and **networking** helped me grow more confident in sharing my story. The lessons from **workplace etiquette** reminded me that professionalism is built on respect, accountability, and a positive attitude.  
 
-Every step — from discovering who I am to preparing for where I’m going — has helped me shape a clearer vision for my career in technology. I now feel ready to apply what I’ve learned, continue improving, and contribute meaningfully to the ICT world.  
+Every step — from discovering who I am to preparing for where I’m going  has helped me shape a clearer vision for my career in technology. I now feel ready to apply what I’ve learned, continue improving, and contribute meaningfully to the ICT world.  
 
 > “Growth begins the moment you decide to learn from every experience — and that’s exactly what this journey has been.” ✨
 
